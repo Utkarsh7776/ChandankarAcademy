@@ -1,0 +1,140 @@
+#headpart{
+    height:100px;
+    width:100%;
+    color:white;
+    background-color: black;
+    font-size: 60px;
+    padding-top:10px;
+    border-color: rgb(189, 189, 189);
+    border-style:double;
+    border-spacing: 10px;
+        position:fixed;
+        display:inline-block;
+        top:0%;
+        z-index: 1;
+
+}
+nav{
+    display:inline-block;
+}
+
+a{
+   
+   margin-right:70px;
+    font-size:20px;
+    color: white;
+margin-left:30px;
+}
+body{
+    background-color: rgb(141, 141, 141);
+    position:sticky;
+}
+
+p{
+    font-size: 30px;
+    margin-top: -5px;
+    margin-left: 180px;
+}
+#map{
+    margin-top:700px;
+}
+#nandusir{
+    height:200px;
+    width:150px;
+    background-image: url("nanusir.JPG");
+background-size: cover;
+
+    border-style:double;
+ 
+    border-color: black;
+    border-top-right-radius: 50px;
+    margin-left:30px;
+    display:inline-block;
+}
+#nandusirq{
+
+    background-color: rgb(255, 255, 255);
+    padding-right: 43px;
+    padding-left:30px;
+    position:relative;
+    top:160px;
+
+}
+#sushilsir{
+    height:200px;
+    width:150px;
+    background-image: url("sushilsir.JPG");
+background-size: contain;
+
+    border-style:double;
+    
+    border-color: black;
+    border-top-right-radius: 50px;
+    margin-left:30px;
+    display:inline-block;
+}
+#sushilsirq{
+
+    background-color: rgb(255, 255, 255);
+    padding-right: 43px;
+    padding-left:30px;
+    position:relative;
+    top:160px;
+
+}
+#dhirajsir{
+    height:200px;
+    width:150px;
+    background-image: url("dhirajsir.JPG");
+background-size: contain;
+
+    border-style:double;
+    
+    border-color: black;
+    border-top-right-radius: 50px;
+    margin-left:30px;
+    display:inline-block;
+}
+#dhirajsirq{
+
+    background-color: rgb(255, 255, 255);
+    padding-right: 43px;
+    padding-left:30px;
+    position:relative;
+    top:160px;
+
+}
+#result{
+    height:550px;
+    width:100%;
+margin-left:10px;
+margin-top:50px;
+    background-image: url("resultphoto.jpg");
+    border-style: double;
+    background-size: cover;
+    
+    /* position:absolute; */
+    top:400px;
+   
+}
+head{
+    position:fixed;
+}
+marquee{
+    background-color:darkgray;
+    color:rgb(41, 35, 58);
+    margin-top:110px;
+    margin-left:10px;
+    font-size: 25px;
+}
+#caption{
+    background-color: rgb(36, 32, 32);
+    margin-right:0px;
+}
+#maindiv{
+    margin-top:35px;
+}
+
+a:hover{
+   color:brown;
+}
